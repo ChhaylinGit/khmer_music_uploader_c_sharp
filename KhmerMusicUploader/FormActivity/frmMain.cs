@@ -1,4 +1,5 @@
-﻿using System;
+﻿using KhmerMusicUploader.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -33,6 +34,13 @@ namespace KhmerMusicUploader.FormActivity
             frmSingerInfor frm = new frmSingerInfor();
             frm.MdiParent = this;
             frm.WindowState = FormWindowState.Maximized;
+            frm.Show();
+        }
+
+        private void viewMenu_Click(object sender, EventArgs e)
+        {
+            frmMusic frm = new frmMusic();
+            frm.MdiParent = this;
             frm.Show();
         }
     }
