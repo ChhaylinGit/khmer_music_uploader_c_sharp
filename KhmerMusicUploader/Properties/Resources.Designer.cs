@@ -63,6 +63,16 @@ namespace KhmerMusicUploader.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap d7a995f34f372832860215bbe65f2cc1 {
+            get {
+                object obj = ResourceManager.GetObject("d7a995f34f372832860215bbe65f2cc1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap default_user {
             get {
                 object obj = ResourceManager.GetObject("default-user", resourceCulture);
@@ -76,6 +86,78 @@ namespace KhmerMusicUploader.Properties {
         internal static System.Drawing.Bitmap image_100px {
             get {
                 object obj = ResourceManager.GetObject("image_100px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Music___Alex_gif_2 {
+            get {
+                object obj = ResourceManager.GetObject("Music - Alex gif 2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap music_png_music_png_photos_1493 {
+            get {
+                object obj = ResourceManager.GetObject("music-png-music-png-photos-1493", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap music_png_transparent_image_2400 {
+            get {
+                object obj = ResourceManager.GetObject("music-png-transparent-image-2400", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap png_transparent_absolute_music_musical_note_illustration_fragmentation_notes_white_effect_text {
+            get {
+                object obj = ResourceManager.GetObject("png-transparent-absolute-music-musical-note-illustration-fragmentation-notes-whit" +
+                        "e-effect-text", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap png_transparent_musical_note_computer_icons_musical_notation_music_notes_miscellaneous_text_monochrome {
+            get {
+                object obj = ResourceManager.GetObject("png-transparent-musical-note-computer-icons-musical-notation-music-notes-miscella" +
+                        "neous-text-monochrome", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap source {
+            get {
+                object obj = ResourceManager.GetObject("source", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap unnamed {
+            get {
+                object obj = ResourceManager.GetObject("unnamed", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

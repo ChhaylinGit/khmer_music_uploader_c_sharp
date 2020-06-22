@@ -8,10 +8,11 @@ namespace KhmerMusicUploader.Model
 {
     class Music
     {
-        string singerID { get; set; }
-        string singerName { get; set; }
-        string mp3Uri { get; set; }
-        string duration { get; set; }
-        string musicTitle { get; set; }
+        public string singerID { get; set; }
+        public string singerName { get; set; }
+        public string mp3Uri { get; set; }
+        public string duration { get; set; }
+        public string musicTitle { get; set; }
+        public string singerImageUrl { get; set; }
     }
 }

@@ -212,5 +212,29 @@
   <ItemGroup>
     <None Include="Resources\default-user.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music-png-music-png-photos-1493.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music-png-transparent-image-2400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-musical-note-computer-icons-musical-notation-music-notes-miscellaneous-text-monochrome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-absolute-music-musical-note-illustration-fragmentation-notes-white-effect-text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d7a995f34f372832860215bbe65f2cc1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\source.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Music - Alex gif 2.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
