@@ -23,11 +23,16 @@ namespace KhmerMusicUploader.FormActivity
         {
 
         }
+        protected override void OnResize(EventArgs e)
+        {
+            this.WindowState = FormWindowState.Maximized;
+        }
 
         private void editMenu_Click(object sender, EventArgs e)
         {
-            frmSinger frm = new frmSinger();
+            frmSingerInfor frm = new frmSingerInfor();
             frm.MdiParent = this;
+            frm.WindowState = FormWindowState.Maximized;
             frm.Show();
         }
     }

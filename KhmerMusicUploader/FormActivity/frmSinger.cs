@@ -21,8 +21,8 @@ namespace KhmerMusicUploader.FormActivity
     {
         private IFirebaseConfig firebaseConfig = FirebaseConnection.config;
         private IFirebaseClient client;
-        private string photoFileName = "";
-        private bool isPhotoSelect = false;
+        private bool isImageSelected = false;
+        public string updateKey = "";
 
         public frmSinger()
         {
@@ -30,51 +30,115 @@ namespace KhmerMusicUploader.FormActivity
             client = new FireSharp.FirebaseClient(firebaseConfig);
         }
 
-        private async void btnSave_Click(object sender, EventArgs e)
+        private bool empty()
         {
-            MemoryStream memory = new MemoryStream();
-            picSinger.Image.Save(memory,ImageFormat.Jpeg);
-            byte[] img = memory.GetBuffer();
-            string output = Convert.ToBase64String(img);
-            var imgModel = new SingerProfile
+            bool result = true;
+            if (string.IsNullOrEmpty(txtFilePath.Text.Trim()))
             {
-                image = output
-            };
+                MessageBox.Show("Please select image!","Warning",MessageBoxButtons.OK,MessageBoxIcon.Warning);
+            }
+            else if (string.IsNullOrEmpty(txtFullname.Text.Trim()))
+            {
+                MessageBox.Show("Please input fullname!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                txtFullname.Focus();
+            }else if(string.IsNullOrEmpty(cboGender.Text) || cboGender.SelectedIndex == -1)
+            {
+                MessageBox.Show("Please select gender!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            else
+            {
+                result = false;
+            }
+            return result;
+        }
 
-            var stream = File.Open(photoFileName,FileMode.Open);
-            var task = new FirebaseStorage("khmer-music-library.appspot.com").Child("Singer").Child("PhotoName").PutAsync(stream);
-            task.Progress.ProgressChanged += (s, em) => progressBar1.Value = em.Percentage;
-            task.Progress.ProgressChanged += (s, em) => lblPercentage.Text = em.Percentage + " %";
-            var downloadUrl = await task;
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            if (!empty())
+            {
+                if (string.IsNullOrEmpty(updateKey))
+                {
+                    uploadSinger();
+                }
+                else
+                {
+                    updateSinger();
+                }
+            }
+        }
+
+        private async void uploadSinger()
+        {
             var singer = new Singer
             {
                 fullname = txtFullname.Text.Trim(),
                 gender = cboGender.Text,
-                imageUrl = downloadUrl
+                imageUrl = await getImageUrl()
             };
             var pushId = FirebasePushIDGenerator.GeneratePushID();
-            SetResponse response = await client.SetTaskAsync("Singer/"+ pushId, singer);
+            SetResponse response = await client.SetTaskAsync("Singer/" + pushId, singer);
             Singer result = response.ResultAs<Singer>();
-            
+            MessageBox.Show("New singer have uploaded successful!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            clear();
+            frmSingerInfor frmSingerInfor = (frmSingerInfor)Application.OpenForms["frmSingerInfor"];
+            frmSingerInfor.loadSinger("");
+        }
+
+        private async void updateSinger()
+        {
+            var singer = new Singer
+            {
+                fullname = txtFullname.Text.Trim(),
+                gender = cboGender.Text,
+                imageUrl = isImageSelected ? await getImageUrl() : txtFilePath.Text.Trim()
+            };
+            var response = await client.UpdateTaskAsync("Singer/" + updateKey, singer);
+            Singer result = response.ResultAs<Singer>();
+            MessageBox.Show("New singer have updated successful!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            frmSingerInfor frmSingerInfor = (frmSingerInfor)Application.OpenForms["frmSingerInfor"];
+            frmSingerInfor.loadSinger("");
+            this.Close();
+        }
+
+        private void clear()
+        {
+            picSinger.Image = Properties.Resources.default_user;
+            txtFileName.Clear();
+            txtFilePath.Clear();
+            txtFullname.Clear();
+            pgBar.Value = 0;
+            lblPercentage.Text = "0%";
+            cboGender.SelectedIndex = -1;
+            isImageSelected = false;
+        }
+
+        private async Task<string> getImageUrl()
+        {
+            var stream = File.Open(txtFilePath.Text, FileMode.Open);
+            var task = new FirebaseStorage("khmer-music-library.appspot.com").Child("Singer").Child(txtFileName.Text).PutAsync(stream);
+            task.Progress.ProgressChanged += (s, em) => pgBar.Value = em.Percentage;
+            task.Progress.ProgressChanged += (s, em) => lblPercentage.Text = em.Percentage + " %";
+            string downloadUrl = await task;
+            return downloadUrl;
         }
 
         private void btnBrowseImage_Click(object sender, EventArgs e)
         {
             OpenFileDialog open = new OpenFileDialog();
-            open.Filter = "Image(*.jpg; *.jpeg; *.bmp;)|*.jpg; *.jpeg; *.bmp;";
+            open.Filter = "Image(*.jpg; *.jpeg; *.bmp; *.png;)|*.jpg; *.jpeg; *.bmp; *.png;";
             if (open.ShowDialog() == DialogResult.OK)
             {
-                this.photoFileName = open.FileName;
-                picSinger.LoadAsync(photoFileName);
+                txtFilePath.Text = open.FileName;
+                txtFileName.Text = open.SafeFileName.Replace(" ",string.Empty);
+                picSinger.LoadAsync(txtFilePath.Text);
+                isImageSelected = true;
             }
         }
-        private Image GetCopyImage(string path)
+        
+
+        private void frmSinger_Load(object sender, EventArgs e)
         {
-            using (Image im = Image.FromFile(path))
-            {
-                Bitmap bm = new Bitmap(im);
-                return bm;
-            }
+
         }
     }
 }

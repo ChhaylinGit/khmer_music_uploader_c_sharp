@@ -63,6 +63,16 @@ namespace KhmerMusicUploader.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap default_user {
+            get {
+                object obj = ResourceManager.GetObject("default-user", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap image_100px {
             get {
                 object obj = ResourceManager.GetObject("image_100px", resourceCulture);
