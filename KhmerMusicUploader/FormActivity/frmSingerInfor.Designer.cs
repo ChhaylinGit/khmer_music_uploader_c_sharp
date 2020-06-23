@@ -35,14 +35,14 @@
             this.txtSearch = new System.Windows.Forms.TextBox();
             this.btnAddNew = new System.Windows.Forms.Button();
             this.dgvSinger = new System.Windows.Forms.DataGridView();
-            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
-            this.pgBar = new System.Windows.Forms.ToolStripProgressBar();
             this.col_edit = new System.Windows.Forms.DataGridViewButtonColumn();
             this.col_no = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.col_key = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.col_name = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.col_gen = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.col_image_url = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.pgBar = new System.Windows.Forms.ToolStripProgressBar();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvSinger)).BeginInit();
             this.statusStrip1.SuspendLayout();
@@ -69,7 +69,7 @@
             this.btnRefresh.Name = "btnRefresh";
             this.btnRefresh.Size = new System.Drawing.Size(75, 34);
             this.btnRefresh.TabIndex = 3;
-            this.btnRefresh.Text = "ទាញយក";
+            this.btnRefresh.Text = "ទាញយកថ្មី";
             this.btnRefresh.UseVisualStyleBackColor = true;
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
@@ -125,22 +125,6 @@
             this.dgvSinger.TabIndex = 2;
             this.dgvSinger.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvSinger_CellClick);
             // 
-            // statusStrip1
-            // 
-            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.pgBar});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 440);
-            this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(901, 22);
-            this.statusStrip1.TabIndex = 4;
-            this.statusStrip1.Text = "statusStrip1";
-            // 
-            // pgBar
-            // 
-            this.pgBar.Name = "pgBar";
-            this.pgBar.Size = new System.Drawing.Size(100, 16);
-            this.pgBar.Style = System.Windows.Forms.ProgressBarStyle.Marquee;
-            // 
             // col_edit
             // 
             this.col_edit.HeaderText = "";
@@ -167,7 +151,6 @@
             this.col_key.Name = "col_key";
             this.col_key.ReadOnly = true;
             this.col_key.Visible = false;
-            this.col_key.Width = 55;
             // 
             // col_name
             // 
@@ -192,6 +175,22 @@
             this.col_image_url.ReadOnly = true;
             this.col_image_url.Resizable = System.Windows.Forms.DataGridViewTriState.True;
             this.col_image_url.Width = 150;
+            // 
+            // statusStrip1
+            // 
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.pgBar});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 440);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.Size = new System.Drawing.Size(901, 22);
+            this.statusStrip1.TabIndex = 4;
+            this.statusStrip1.Text = "statusStrip1";
+            // 
+            // pgBar
+            // 
+            this.pgBar.Name = "pgBar";
+            this.pgBar.Size = new System.Drawing.Size(100, 16);
+            this.pgBar.Style = System.Windows.Forms.ProgressBarStyle.Marquee;
             // 
             // frmSingerInfor
             // 

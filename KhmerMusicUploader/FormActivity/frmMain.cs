@@ -13,8 +13,6 @@ namespace KhmerMusicUploader.FormActivity
 {
     public partial class frmMain : Form
     {
-        private int childFormNumber = 0;
-
         public frmMain()
         {
             InitializeComponent();
@@ -39,7 +37,7 @@ namespace KhmerMusicUploader.FormActivity
 
         private void viewMenu_Click(object sender, EventArgs e)
         {
-            frmMusic frm = new frmMusic();
+            frmMusicInfor frm = new frmMusicInfor();
             frm.MdiParent = this;
             frm.Show();
         }

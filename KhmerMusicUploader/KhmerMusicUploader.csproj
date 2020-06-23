@@ -54,6 +54,15 @@
     <Reference Include="Microsoft.Win32.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Win32.Primitives.4.3.0\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.WindowsAPICodePack-Core.1.1.0.0\lib\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.WindowsAPICodePack-Shell.1.1.0.0\lib\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.ShellExtensions, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.WindowsAPICodePack-Shell.1.1.0.0\lib\Microsoft.WindowsAPICodePack.ShellExtensions.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -134,6 +143,12 @@
     <Compile Include="FormActivity\frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormActivity\frmMusicInfor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormActivity\frmMusicInfor.Designer.cs">
+      <DependentUpon>frmMusicInfor.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormActivity\frmSinger.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -160,6 +175,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormActivity\frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormActivity\frmMusicInfor.resx">
+      <DependentUpon>frmMusicInfor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormActivity\frmSinger.resx">
       <DependentUpon>frmSinger.cs</DependentUpon>
@@ -211,6 +229,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\default-user.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music-png-music-png-photos-1493.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music-png-transparent-image-2400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-musical-note-computer-icons-musical-notation-music-notes-miscellaneous-text-monochrome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-absolute-music-musical-note-illustration-fragmentation-notes-white-effect-text.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d7a995f34f372832860215bbe65f2cc1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\source.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Music - Alex gif 2.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
