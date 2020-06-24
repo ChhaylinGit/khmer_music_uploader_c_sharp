@@ -69,7 +69,9 @@
             // 
             this.txtDuration.Location = new System.Drawing.Point(129, 175);
             this.txtDuration.Name = "txtDuration";
+
             this.txtDuration.ReadOnly = true;
+
             this.txtDuration.Size = new System.Drawing.Size(242, 27);
             this.txtDuration.TabIndex = 2;
             // 
@@ -213,15 +215,22 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnBrowse;
+
         private System.Windows.Forms.Button btnSave;
+
+        private System.Windows.Forms.TextBox txtMP3Path;
+   
+        private System.Windows.Forms.TextBox txtFileName;
+
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.ToolStripProgressBar pgBar;
         private System.Windows.Forms.ToolStripStatusLabel lblPercentage;
         private System.Windows.Forms.PictureBox pictureBox1;
+
         public System.Windows.Forms.ComboBox cboSinger;
         public System.Windows.Forms.TextBox txtDuration;
         public System.Windows.Forms.TextBox txtTitle;
-        public System.Windows.Forms.TextBox txtMP3Path;
-        public System.Windows.Forms.TextBox txtFileName;
+ 
+
     }
 }

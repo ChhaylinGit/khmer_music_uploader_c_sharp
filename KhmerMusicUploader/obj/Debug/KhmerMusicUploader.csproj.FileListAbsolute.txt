@@ -1,81 +1,9 @@
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\KhmerMusicUploader.exe.config
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\KhmerMusicUploader.exe
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\KhmerMusicUploader.pdb
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\Firebase.Auth.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\Firebase.Storage.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\FireSharp.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\FireSharp.Serialization.JsonNet.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\Microsoft.Win32.Primitives.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\Newtonsoft.Json.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\RestSharp.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.AppContext.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Console.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Globalization.Calendars.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.IO.Compression.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.IO.Compression.ZipFile.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.Primitives.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Net.Http.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Net.Sockets.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Algorithms.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Encoding.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Primitives.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Xml.ReaderWriter.dll
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\Newtonsoft.Json.xml
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\RestSharp.xml
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csprojAssemblyReference.cache
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmMain.resources
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmSinger.resources
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.Properties.Resources.resources
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.GenerateResource.cache
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.CoreCompileInputs.cache
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.CopyComplete
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.exe
-D:\Private\Project\C#\KhmerMusicUploader\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.pdb
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\KhmerMusicUploader.exe.config
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\KhmerMusicUploader.exe
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\KhmerMusicUploader.pdb
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.Auth.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.Storage.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\FireSharp.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\FireSharp.Serialization.JsonNet.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Microsoft.Win32.Primitives.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Newtonsoft.Json.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\RestSharp.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.AppContext.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Console.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Globalization.Calendars.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.Compression.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.Compression.ZipFile.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.Primitives.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Http.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Sockets.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Algorithms.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Encoding.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Primitives.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.ReaderWriter.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Newtonsoft.Json.xml
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\RestSharp.xml
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csprojAssemblyReference.cache
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmMain.resources
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmSinger.resources
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.Properties.Resources.resources
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.GenerateResource.cache
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.CoreCompileInputs.cache
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.CopyComplete
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.exe
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.pdb
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmSingerInfor.resources
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\netstandard.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.AppContext.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Collections.Concurrent.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Collections.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Collections.NonGeneric.dll
@@ -84,6 +12,7 @@ D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\De
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.ComponentModel.EventBasedAsync.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.ComponentModel.Primitives.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Console.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Data.Common.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.Contracts.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.Debug.dll
@@ -96,10 +25,15 @@ D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\De
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.Tracing.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Drawing.Primitives.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Dynamic.Runtime.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Globalization.Calendars.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Globalization.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Globalization.Extensions.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.Compression.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.Compression.ZipFile.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.Primitives.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.Watcher.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.IsolatedStorage.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.MemoryMappedFiles.dll
@@ -109,12 +43,14 @@ D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\De
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Linq.Expressions.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Linq.Parallel.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Linq.Queryable.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Http.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.NameResolution.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.NetworkInformation.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Ping.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Primitives.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Requests.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Security.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Sockets.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.WebHeaderCollection.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.WebSockets.Client.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.WebSockets.dll
@@ -130,13 +66,18 @@ D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\De
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Extensions.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Handles.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.InteropServices.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Numerics.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Serialization.Formatters.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Serialization.Json.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Serialization.Primitives.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Serialization.Xml.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Claims.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Algorithms.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.X509Certificates.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Principal.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.SecureString.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Text.Encoding.dll
@@ -150,153 +91,46 @@ D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\De
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Threading.ThreadPool.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Threading.Timer.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.ValueTuple.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.ReaderWriter.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.XDocument.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.XmlDocument.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.XmlSerializer.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.XPath.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.Auth.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.Storage.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\FireSharp.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\FireSharp.Serialization.JsonNet.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\LiteDB.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Reactive.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.xml
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\LiteDB.xml
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Reactive.xml
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.exe.config
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.Model.frmMusic.resources
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\KhmerMusicUploader.exe.config
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\KhmerMusicUploader.exe
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\KhmerMusicUploader.pdb
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Microsoft.Win32.Primitives.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\netstandard.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.AppContext.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Collections.Concurrent.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Collections.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Collections.NonGeneric.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Collections.Specialized.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.ComponentModel.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.ComponentModel.EventBasedAsync.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.ComponentModel.Primitives.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.ComponentModel.TypeConverter.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Console.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Data.Common.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.Contracts.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.Debug.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.FileVersionInfo.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.Process.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.StackTrace.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.Tools.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.TraceSource.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.Tracing.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Drawing.Primitives.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Dynamic.Runtime.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Globalization.Calendars.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Globalization.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Globalization.Extensions.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.Compression.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.Compression.ZipFile.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.DriveInfo.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.Primitives.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.FileSystem.Watcher.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.IsolatedStorage.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.MemoryMappedFiles.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.Pipes.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.IO.UnmanagedMemoryStream.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Linq.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Linq.Expressions.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Linq.Parallel.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Linq.Queryable.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Http.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.NameResolution.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.NetworkInformation.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Ping.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Primitives.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Requests.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Security.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Sockets.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.WebHeaderCollection.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.WebSockets.Client.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.WebSockets.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.ObjectModel.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Reflection.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Reflection.Extensions.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Reflection.Primitives.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Resources.Reader.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Resources.ResourceManager.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Resources.Writer.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Extensions.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Handles.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.InteropServices.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Numerics.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Serialization.Formatters.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Serialization.Json.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Serialization.Primitives.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Runtime.Serialization.Xml.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Claims.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Algorithms.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Csp.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Encoding.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.Primitives.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.Principal.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Security.SecureString.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Text.Encoding.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Text.Encoding.Extensions.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Text.RegularExpressions.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Threading.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Threading.Overlapped.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Threading.Tasks.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Threading.Tasks.Parallel.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Threading.Thread.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Threading.ThreadPool.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Threading.Timer.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.ValueTuple.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.ReaderWriter.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.XDocument.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.XmlDocument.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.XmlSerializer.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.XPath.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Xml.XPath.XDocument.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.Auth.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.Storage.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\FireSharp.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\FireSharp.Serialization.JsonNet.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\LiteDB.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Newtonsoft.Json.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\RestSharp.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Reactive.dll
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.xml
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\LiteDB.xml
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Newtonsoft.Json.xml
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\RestSharp.xml
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Reactive.xml
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csprojAssemblyReference.cache
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.exe.config
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmMain.resources
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmSinger.resources
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmSingerInfor.resources
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.Model.frmMusic.resources
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.Properties.Resources.resources
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.GenerateResource.cache
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.CoreCompileInputs.cache
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.CopyComplete
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.exe
-D:\Private\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.pdb
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Microsoft.WindowsAPICodePack.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Newtonsoft.Json.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\RestSharp.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Reactive.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.xml
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\LiteDB.xml
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Microsoft.WindowsAPICodePack.pdb
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Microsoft.WindowsAPICodePack.xml
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Newtonsoft.Json.xml
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\RestSharp.xml
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Reactive.xml
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.exe.config
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmMain.resources
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmMusicInfor.resources
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmSinger.resources
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmSingerInfor.resources
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.Model.frmMusic.resources
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.Properties.Resources.resources
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.GenerateResource.cache
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.CoreCompileInputs.cache
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.CopyComplete
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.exe
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.pdb

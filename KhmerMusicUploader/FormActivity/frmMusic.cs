@@ -23,6 +23,7 @@ namespace KhmerMusicUploader.Model
     {
         private IFirebaseConfig firebaseConfig = FirebaseConnection.config;
         private IFirebaseClient client;
+
         private Dictionary<string, string> singerDictionaryList = new Dictionary<string, string>();
         public string musicKey;
         private bool isMusicSelected = false;
@@ -50,10 +51,13 @@ namespace KhmerMusicUploader.Model
             {
                 txtMP3Path.Text = open.FileName;
                 txtFileName.Text = open.SafeFileName;
+
                 txtDuration.Text = getMusicDuration(open.FileName);
                 this.isMusicSelected = true;
             }
         }
+        
+
         private async Task<string> getImageUrl(string singerid)
         {
             string str="";
@@ -64,6 +68,7 @@ namespace KhmerMusicUploader.Model
             }
             return str;
         }
+
         private async void loadcomboBoxAsync()
         {
             var singerList = await FirebaseConnection.firebaseClient.Child("Singer").OnceAsync<Singer>();
@@ -75,12 +80,15 @@ namespace KhmerMusicUploader.Model
             cboSinger.DisplayMember = "Value";
             cboSinger.ValueMember = "Key";
             cboSinger.SelectedIndex = -1;
+
             if (!string.IsNullOrEmpty(musicKey)) { getValue(); }
+
         }   
         private void frmMusic_Load(object sender, EventArgs e)
         {
             loadcomboBoxAsync();
         }
+
         private void btnSave_Click(object sender, EventArgs e)
         {
             if (!empty())
@@ -137,12 +145,14 @@ namespace KhmerMusicUploader.Model
                 musicTitle = txtTitle.Text.Trim(),
                 singerImageUrl = await getImageUrl(cboSinger.SelectedValue.ToString())
             };
+
             var pushId = FirebasePushIDGenerator.GeneratePushID();
             SetResponse response = await client.SetTaskAsync("Music/" + cboSinger.SelectedValue.ToString() + "/" + pushId, music);
             Music result = response.ResultAs<Music>();
             MessageBox.Show("New music have uploaded successful!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
             clear();
         }
+        
         private void clear()
         {
             txtMP3Path.Clear();
@@ -177,6 +187,10 @@ namespace KhmerMusicUploader.Model
         }
 
 
+
+        
+
+
         private async Task<string> getMusicUrl()
         {
             var stream = File.Open(txtMP3Path.Text, FileMode.Open);
@@ -190,6 +204,7 @@ namespace KhmerMusicUploader.Model
         private async void cboSinger_SelectionChangeCommitted(object sender, EventArgs e)
         {
             await getImageUrl(cboSinger.SelectedValue.ToString());
+
             txtTitle.Focus();
         }
         private static string getMusicDuration(string filePath)
@@ -203,6 +218,7 @@ namespace KhmerMusicUploader.Model
             }
             DateTime dtime = DateTime.Today.Add(time);
             return dtime.ToString("mm:ss");
+
         }
     }
 }
