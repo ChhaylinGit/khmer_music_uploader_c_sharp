@@ -52,19 +52,44 @@ namespace KhmerMusicUploader.FormActivity
             return result;
         }
 
-        private void btnSave_Click(object sender, EventArgs e)
+        private async void btnSave_ClickAsync(object sender, EventArgs e)
         {
             if (!empty())
             {
                 if (string.IsNullOrEmpty(updateKey))
                 {
-                    uploadSinger();
+                    if (await duplicate() == false)
+                    {
+                        uploadSinger();
+                    }
+                    else
+                    {
+                        lblPercentage.Text = "0%";
+                        MessageBox.Show("Duplicate singer name!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    }
+                    
                 }
                 else
                 {
                     updateSinger();
                 }
             }
+        }
+
+        private async Task<bool> duplicate()
+        {
+            lblPercentage.Text = "Checking duplicate......";
+            bool result = false;
+            var singerList = await FirebaseConnection.firebaseClient.Child("Singer").OnceAsync<Singer>();
+            foreach (var item in singerList)
+            {
+                if (item.Object.fullname.Equals(txtFullname.Text.Trim()))
+                {
+                    result = true;
+                    break;
+                }
+            }
+            return result;
         }
 
         private async void uploadSinger()
