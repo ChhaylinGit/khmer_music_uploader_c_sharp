@@ -194,7 +194,7 @@ namespace KhmerMusicUploader.Model
         private async Task<string> getMusicUrl()
         {
             var stream = File.Open(txtMP3Path.Text, FileMode.Open);
-            var task = new FirebaseStorage("khmer-music-library.appspot.com").Child("Music").Child(txtFileName.Text).PutAsync(stream);
+            var task = new FirebaseStorage("khmer-music-library.appspot.com").Child("Music").Child(cboSinger.Text).Child(txtFileName.Text).PutAsync(stream);
             task.Progress.ProgressChanged += (s, em) => pgBar.Value = em.Percentage;
             task.Progress.ProgressChanged += (s, em) => lblPercentage.Text = em.Percentage + " %";
             string downloadUrl = await task;

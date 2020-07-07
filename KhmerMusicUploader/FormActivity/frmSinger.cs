@@ -23,6 +23,7 @@ namespace KhmerMusicUploader.FormActivity
         private IFirebaseClient client;
         private bool isImageSelected = false;
         public string updateKey = "";
+        private string singerImageUrl; // for update only
 
         public frmSinger()
         {
@@ -67,7 +68,6 @@ namespace KhmerMusicUploader.FormActivity
                         lblPercentage.Text = "0%";
                         MessageBox.Show("Duplicate singer name!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     }
-                    
                 }
                 else
                 {
@@ -111,19 +111,41 @@ namespace KhmerMusicUploader.FormActivity
 
         private async void updateSinger()
         {
+            string imageUrl="";
+            if (isImageSelected) { imageUrl = await getImageUrl(); }
             var singer = new Singer
             {
                 fullname = txtFullname.Text.Trim(),
                 gender = cboGender.Text,
-                imageUrl = isImageSelected ? await getImageUrl() : txtFilePath.Text.Trim()
+                imageUrl = isImageSelected ? imageUrl : txtFilePath.Text.Trim()
             };
             var response = await client.UpdateTaskAsync("Singer/" + updateKey, singer);
             Singer result = response.ResultAs<Singer>();
+            updateSingerImageUrl(imageUrl);
             MessageBox.Show("New singer have updated successful!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
             frmSingerInfor frmSingerInfor = (frmSingerInfor)Application.OpenForms["frmSingerInfor"];
             frmSingerInfor.loadSinger("");
             this.Close();
         }
+
+        private async void updateSingerImageUrl(string imageUrl)
+        {
+            var singerList = await FirebaseConnection.firebaseClient.Child("Music/"+updateKey).OnceAsync<Music>();
+            foreach (var item in singerList)
+            {
+                var music = new Music
+                {
+                    singerID = item.Object.singerID,
+                    singerName = item.Object.singerName,
+                    mp3Uri = item.Object.mp3Uri,
+                    duration = item.Object.duration,
+                    musicTitle = item.Object.musicTitle,
+                    singerImageUrl = imageUrl
+                };
+                var response = await client.UpdateTaskAsync("Music/"+ updateKey+ "/" + item.Key, music);
+            }
+        }
+
 
         private void clear()
         {
@@ -144,6 +166,7 @@ namespace KhmerMusicUploader.FormActivity
             task.Progress.ProgressChanged += (s, em) => pgBar.Value = em.Percentage;
             task.Progress.ProgressChanged += (s, em) => lblPercentage.Text = em.Percentage + " %";
             string downloadUrl = await task;
+            this.singerImageUrl = downloadUrl;
             return downloadUrl;
         }
 

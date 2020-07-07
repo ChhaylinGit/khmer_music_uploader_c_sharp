@@ -69,9 +69,7 @@
             // 
             this.txtDuration.Location = new System.Drawing.Point(129, 175);
             this.txtDuration.Name = "txtDuration";
-
             this.txtDuration.ReadOnly = true;
-
             this.txtDuration.Size = new System.Drawing.Size(242, 27);
             this.txtDuration.TabIndex = 2;
             // 
@@ -139,7 +137,6 @@
             this.txtFileName.Font = new System.Drawing.Font("Khmer OS Battambang", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtFileName.Location = new System.Drawing.Point(129, 56);
             this.txtFileName.Name = "txtFileName";
-            this.txtFileName.ReadOnly = true;
             this.txtFileName.Size = new System.Drawing.Size(526, 32);
             this.txtFileName.TabIndex = 10;
             // 

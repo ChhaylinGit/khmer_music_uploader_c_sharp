@@ -109,6 +109,8 @@ D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\De
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Newtonsoft.Json.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\RestSharp.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Http.Extensions.dll
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Http.Primitives.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Reactive.dll
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Firebase.xml
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\LiteDB.xml
@@ -121,7 +123,10 @@ D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\De
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\Newtonsoft.Json.xml
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\RestSharp.xml
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Http.Extensions.xml
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Http.Primitives.xml
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Reactive.xml
+D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.App.config
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.exe.config
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmMain.resources
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.FormActivity.frmMusicInfor.resources
@@ -134,9 +139,4 @@ D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\De
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.CopyComplete
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.exe
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.pdb
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csproj.App.config
 D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\obj\Debug\KhmerMusicUploader.csprojAssemblyReference.cache
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Http.Extensions.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Http.Primitives.dll
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Http.Extensions.xml
-D:\My Document\Project\C#\khmer_music_uploader_c_sharp\KhmerMusicUploader\bin\Debug\System.Net.Http.Primitives.xml
